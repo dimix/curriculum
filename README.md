@@ -64,58 +64,77 @@ Current version is compatible with:
 # Dimitri Giani 
 [Photo](https://www.niceapp.it/wp-content/uploads/2017/03/dimitri.jpg)
 
-BirthDate: 25/03/1980,
+BirthDate: 25/03/1980
+
 Residence: Via Papa Giovanni XXIII 2, Uliveto Terme (Pisa), Italy
 
 ## Contacts:
 phone: +39 338 43 53 888
+
 email: dimitri@niceapp.it
+
 website: http://www.dimitrigiani.it
+
 website: https://www.niceapp.it
 
 ## Work Experiences:
 ### Nice APP - Nice APP
 From 15/05/2015 to current
+
 In Nice APP I manage all the projects as Tech Lead and Senior Developer.
 
 ### buildtest - buildtest
 From 10/12/2015 to 21/03/2018
+
 buildtest is a tool for Q/A test management for mobile platforms. In addition to having designed the project I also created the tool, both the server/web part and the iOS framework.
 
 ### Ovolab SRL - Ovolab SRL
 From 06/06/2009 to 14/05/2015
+
 In Ovolab I did a very intensive training program, moving from Junior to Senior role. I have been involved in the development of many important applications for the Italian Mobile panorama, such as the SEAT suite, Repubblica, Radio Deejay, Radio Capital and the Slow Food suite. I also trained in the development of video games based on the Cocos2D Framework, creating promotional and B2C videogames.
 
 ### Dimitri Giani - Dimitri Giani
 From 01/01/2006 to 05/06/2009
+
 In my first entrepreneurial experience started as Web Developer I was mainly involved in Web Development, such as websites and web app development, back office and social networks. I have increased my experience both in terms of programming and management of staff and collaborators. During this period I also played the role of external consultant for Forzieri Seta where I managed all the development part of the e-commerce FrontEnd.
 
 ### Tesene SRL - Tesene SRL
 From 10/03/2004 to 31/12/2005
+
 In Tesene SRL I worked on Web Development creating promotional websites with the role of Junior Web Developer.
 
 ### HiBit Puccini Computer - HiBit Puccini Computer
 From 05/05/2000 to 06/05/2003
+
 In HiBit I played a Hardware Technician role. I was responsible for assembling personal computers and servers and installing and testing software. In the last year I had the role of Production Manager with the management of the production of 2 other empolyees.
 
 ## Projects:
 Guida turistica del comune di Calci (iOS, tvOS, watchOS)
+
 Costituzione Italiana (iOS)
+
 ChildExplorer (iOS)
+
 Salone del Camper (iOS)
+
 Magica (iOS)
+
 Meting - Audio Notes (iOS)
+
 Zia App (iOS)
+
 IFAPP (iOS)
+
 Quanto costa un'App? (iOS)
+
 IconRecolor (macOS)
+
 Ovolab SRL projects (see website) (iOS)
 
 ## Publications
 In 2017 I published my first book “Come le applicazioni stanno cambiando il mondo: Cosa devi fare per sfruttarle nel tuo business.”
+
 (“How applications are changing the world: What you have to do to exploit them in your business.”).
-In this book I analyze the world of Mobile
-Business by examining its characteristics and
-indicating the opportunities offered, describing in
-detail how to look at the development of a mobile application for your business.
+
+In this book I analyze the world of Mobile Business by examining its characteristics and indicating the opportunities offered, describing in detail how to look at the development of a mobile application for your business.
 
